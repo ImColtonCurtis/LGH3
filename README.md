@@ -1,6 +1,6 @@
 # Let's Get High 3
 
-Welcome to Let's Get High 3, a minigame compilation for mobile devices, created by No Nothing!
+Welcome to "Let's Get High 3", a minigame compilation for mobile devices, created by No Nothing!
 
 ## Game Description
 
