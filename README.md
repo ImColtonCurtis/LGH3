@@ -15,7 +15,7 @@ Let's Get High 3 is an exciting and challenging mobile game that features a coll
 
 ## Contact Information
 
-If you have any questions, feedback, or encounter any issues while playing Let's Get High 3, please feel free to contact us at nonothinggames@gmail.com. We appreciate your support and are committed to making Let's Get High 3 a fun and enjoyable gaming experience for our players.
+If you have any questions, feedback, or encounter any issues while playing Let's Get High 3, please feel free to contact us at nonothinggames@gmail.com. We appreciate your support and are committed to making Let's Get High 3 a fun and enjoyable gaming experience for our players. 
 Installation
 
 ## Feedback and Bug Reporting
