@@ -19,7 +19,7 @@ If you have any questions, feedback, or encounter any issues while playing Let's
 Installation
 
 ## Feedback and Bug Reporting
-
+ 
 We welcome your feedback and suggestions to help us improve Let's Get High 3. If you encounter any bugs or issues while playing the game, please report them to us at nonothinggames@gmail.com. Please provide as much detail as possible, including the device you are using, the version of the game, and a description of the issue, so that we can investigate and address it promptly.
 ## Credits
 
