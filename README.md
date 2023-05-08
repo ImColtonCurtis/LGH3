@@ -2,7 +2,7 @@
 
 Welcome to "Let's Get High 3", a minigame compilation game for mobile devices, created by No Nothing!
 
-## Game Description
+## Game Description 
 
 Let's Get High 3 is an exciting and challenging mobile game that features a collection of nanogames, which are very short minigames with one-word written instructions and contextual clues. The game is designed to be fast-paced and tests your quick thinking, reflexes, and problem-solving skills. Each nanogame lasts from 3 to 8 seconds, and you must figure out how to complete the task based on the given instructions and clues.
 ## Features
