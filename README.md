@@ -15,14 +15,15 @@ Let's Get High 3 is an exciting and challenging mobile game that features a coll
 
 ## Contact Information
 
-If you have any questions, feedback, or encounter any issues while playing Let's Get High 3, please feel free to contact us at nonothinggames@gmail.com. We appreciate your support and are committed to making Let's Get High 3 a fun and enjoyable gaming experience for our players. 
+If you have any questions, feedback, or encounter any issues while playing Let's Get High 3, please feel free to contact us at imcoltoncurtis@gmail.com. We appreciate your support and are committed to making Let's Get High 3 a fun and enjoyable gaming experience for our players. 
 Installation
 
 ## Feedback and Bug Reporting
  
-We welcome your feedback and suggestions to help us improve Let's Get High 3. If you encounter any bugs or issues while playing the game, please report them to us at nonothinggames@gmail.com. Please provide as much detail as possible, including the device you are using, the version of the game, and a description of the issue, so that we can investigate and address it promptly.
+We welcome your feedback and suggestions to help us improve Let's Get High 3. If you encounter any bugs or issues while playing the game, please report them to us at imcoltoncurtis@gmail.com. Please provide as much detail as possible, including the device you are using, the version of the game, and a description of the issue, so that we can investigate and address it promptly.
+
 ## Credits
 
-Let's Get High 3 is developed by No Nothing Games. We are a small independent game development team passionate about creating fun and challenging games for mobile devices. We would like to thank our dedicated team of developers, artists, and testers for their hard work and contribution to the game.
+Let's Get High 3 is developed by Colton Curtis.
 
 Thank you for choosing Let's Get High 3! Enjoy the nanogame compilation and have fun!
