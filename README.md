@@ -11,16 +11,16 @@ Let's Get High 3 is an exciting and challenging mobile game that features a coll
     Short and Challenging Minigames: The nanogames are designed to be quick and challenging, requiring you to think fast and act quickly to complete the tasks within seconds.
     One-Word Instructions: The game uses concise one-word instructions to guide you through each nanogame, adding an element of mystery and excitement.
     Contextual Clues: In addition to the instructions, contextual clues are provided to help you figure out how to complete the nanogames, making each level a puzzle to solve.
-    Work in Progress: Let's Get High 3 is still under development, and we are constantly working on adding more nanogames, improving gameplay, and fixing any bugs or issues.
+    Work in Progress: Let's Get High 3 is still under development, and I am constantly working on adding more nanogames, improving gameplay, and fixing any bugs or issues.
 
 ## Contact Information
 
-If you have any questions, feedback, or encounter any issues while playing Let's Get High 3, please feel free to contact us at imcoltoncurtis@gmail.com. We appreciate your support and are committed to making Let's Get High 3 a fun and enjoyable gaming experience for our players. 
+If you have any questions, feedback, or encounter any issues while playing Let's Get High 3, please feel free to contact me at imcoltoncurtis@gmail.com. We appreciate your support and are committed to making Let's Get High 3 a fun and enjoyable gaming experience for our players. 
 Installation
 
 ## Feedback and Bug Reporting
  
-We welcome your feedback and suggestions to help us improve Let's Get High 3. If you encounter any bugs or issues while playing the game, please report them to us at imcoltoncurtis@gmail.com. Please provide as much detail as possible, including the device you are using, the version of the game, and a description of the issue, so that we can investigate and address it promptly.
+We welcome your feedback and suggestions to help us improve Let's Get High 3. If you encounter any bugs or issues while playing the game, please report them to me at imcoltoncurtis@gmail.com. Please provide as much detail as possible, including the device you are using, the version of the game, and a description of the issue, so that I can investigate and address it promptly.
 
 ## Credits
 
